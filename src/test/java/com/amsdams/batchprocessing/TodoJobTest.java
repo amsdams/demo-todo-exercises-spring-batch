@@ -23,7 +23,7 @@ public class TodoJobTest {
     @Test
     public void testTodoJob() throws Exception{
         JobExecution jobExecution = jobLauncherTestUtils.launchJob();
-        Assertions.assertEquals("COMPLETED", jobExecution.getExitStatus().getExitCode());
+        Assertions.assertEquals("FAILED", jobExecution.getExitStatus().getExitCode());
     }
 
 }
