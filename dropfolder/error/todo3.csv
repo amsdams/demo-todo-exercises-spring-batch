@@ -1,0 +1,8 @@
+do batch processing getting started,basics
+update batch processing getting started,change person to todo and add boolean
+update batch processing getting started,update create table to store bigger strings,true
+update batch processing getting started,refactor artifact name,true
+update batch processing getting started,add sonar and review coverage,true
+update batch processing getting started,add tests and improve coverage,true
+do batch processing plural course,basics,false
+update batch processing plural course,change person to todo and add boolean,false
